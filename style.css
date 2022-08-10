@@ -1,0 +1,37 @@
+.body{
+    background-size:cover;
+}
+.head{
+    font-family:stencil;
+    size:40px;
+    background:rgb(9, 31, 100);
+    color:white;
+}
+.button{
+    margin-top:20px;
+    width:70px;
+    font-family:penultimate;
+    font-size:25px;
+}
+.footer{
+background:whitesmoke;
+font-family:Penultimate;
+font-size:20px;
+color:black;
+line-height:1.5;
+bottom:0;
+position:fixed;
+width:100%;
+text-align:center;
+}
+label{
+font-size:20px;
+margin-top:10px;
+background-color:rgb(9, 31, 100);
+color:white;
+}
+canvas{
+    border-color:black;
+    border-style:dashed;
+    border-width:3px;
+}
